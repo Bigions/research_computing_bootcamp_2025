@@ -15,6 +15,8 @@
      <h4 id="teach">Instructors:</h4>
   <p>
     <a href="https://www.cermofc.uqam.ca/en/technological-platforms/bio-informatics/">Farzaneh Rahmdani </a>, M.Sc.
+    </div>
+    <div>
     <a href="https://www.linkedin.com/in/golrokh-vitae/?originalSubdomain=ca">Golrokh Kiani </a>, M.Sc.
   </p>
 </div>
