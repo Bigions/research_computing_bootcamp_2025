@@ -11,13 +11,12 @@
   <a href="https://orcid.org/0000-0002-0567-7673">Dr. Mona Parizadeh </a>(Ph.D., PDF)
 </p>
 
-<div class="row">
-     <h4 id="teach">Instructors:</h4>
-  <p>
+<p id="teach">
+  <strong>Instructors: </strong>
     <a href="https://www.cermofc.uqam.ca/en/technological-platforms/bio-informatics/">Farzaneh Rahmdani </a>, M.Sc. & 
     <a href="https://www.linkedin.com/in/golrokh-vitae/?originalSubdomain=ca"> Golrokh Kiani </a>, M.Sc.
-  </p>
-</div>
+</p>
+
 
 <p id="by">
   <strong>Organized by:</strong>
