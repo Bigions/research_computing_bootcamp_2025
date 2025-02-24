@@ -2,7 +2,7 @@
 
 <h2 id="general">General Information</h2>
 
-<img src="images/poster_BIOF-Mic101.png" width="350" align="right">
+<img src="images/alliance_icoia_logo.png" width="200" align="right">
 
 <p id="lead">
   <strong>Team Leader:</strong>
