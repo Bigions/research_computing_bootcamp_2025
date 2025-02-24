@@ -26,8 +26,9 @@
 </p>
 
 <p id="date">
-  <h4>Workshop Duration and Commitment:</h4>
+  <strong>Workshop Duration and Commitment:<strong>
 </p>
+
   <strong> Timeframe:</strong> March 2025
   
   <strong> Estimated workshop sessions:</strong> 10–15 hours
