@@ -82,10 +82,15 @@ We welcome participants who:
 <p id="suit">
 This course is suitable for:
 </p>
-
+<div>
 <strong>Levels:</strong> Beginner & Intermediate
+  </div>
+  <div>
 <strong>Fields:</strong> Agriculture and Natural Resources, AI and Machine Learning, Bioinformatics, Biological Sciences, Biomolecular simulation, Computational chemistry, Computer Science, CFD, GIS, Humanities and Social Sciences, Medicine, Microbiology, Research Data Management, Subatomic physics, Veterinary, etc.
+  </div>
+  <div>
 <strong>Language:</strong> Farsi
+</div>
 
 <p id="cover">
 This course covers the following material:
