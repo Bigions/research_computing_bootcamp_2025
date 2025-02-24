@@ -54,8 +54,9 @@
   <strong>Contact:</strong>
   <a href="mailto:{{icoia.onlineschool@gmail.com}}">icoia.onlineschool@gmail.com</a> 
 </p>
-  
+
 <p id="register">
+  <strong>Registration:</strong> 
   Please complete <a href="https://forms.gle/eShNkxNoUn4UZ9Eq5"><strong>this survey</strong></a> first, and then <a href="https://forms.gle/S3ovg69fZrE3zhq26"><strong>register here</strong></a>. 
 </p>
 
