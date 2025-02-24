@@ -31,7 +31,7 @@
 </p>
 
 <p id="date">
-  Workshop Duration and Commitment:
+  <strong>Workshop Duration and Commitment:</strong>
 </p>
     
   <ins>Timeframe</ins>: March 2025
