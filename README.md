@@ -71,7 +71,7 @@ To ask questions about the course, communicate with the instructor and get infor
 
 <h2 id="schedule">Schedule</h2>
 <p id="eligible">
-We welcome participants who:
+<h4>We welcome participants who:</h4>
 </p>
 
 - speak Farsi
@@ -83,11 +83,8 @@ We welcome participants who:
 <h4>This course is suitable for:</h4>
 </p>
 <div>
-<strong>Levels:</strong> Beginner & Intermediate
-  </div>
-
-  <div>
-<strong>Fields:</strong> including, but not limited to:
+- <strong>Levels:</strong> Beginner & Intermediate
+  <strong>Fields:</strong> including, but not limited to:
 
 - Agriculture and Natural Resources
 - AI and Machine Learning
