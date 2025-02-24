@@ -86,7 +86,24 @@ This course is suitable for:
 <strong>Levels:</strong> Beginner & Intermediate
   </div>
   <div>
-<strong>Fields:</strong> Agriculture and Natural Resources, AI and Machine Learning, Bioinformatics, Biological Sciences, Biomolecular simulation, Computational chemistry, Computer Science, CFD, GIS, Humanities and Social Sciences, Medicine, Microbiology, Research Data Management, Subatomic physics, Veterinary, etc.
+<strong>Fields:</strong> including, but not limited to
+
+- Agriculture and Natural Resources
+- AI and Machine Learning
+- Bioinformatics
+- Biological Sciences
+- Biomolecular simulation
+- Computational chemistry
+- Computer Science
+- CFD
+- Engineering
+- GIS
+- Humanities and Social Sciences
+- Medicine
+- Microbiology
+- Research Data Management
+- Subatomic physics
+- Veterinary
   </div>
   <div>
 <strong>Language:</strong> Farsi
