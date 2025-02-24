@@ -29,7 +29,7 @@
   <strong>Workshop Duration and Commitment:<strong>
 </p>
 
-  <u>Timeframe:</u> March 2025
+  <uTimeframe:></u> March 2025
   
   <strong> Estimated workshop sessions:</strong> 10–15 hours
 
