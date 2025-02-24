@@ -33,22 +33,21 @@
   <strong> Timeframe:</strong> March 2025
   </div>
   <div>
-  <strong> Estimated Workshop Sessions:</strong> 10–15 hours
+  <strong> Estimated workshop sessions:</strong> 10–15 hours
    </div>
    <div>
-  <strong> Additional Private or Small Group Sessions:</strong> Scheduled separately beyond the 10–15 hours
+  <strong> Additional private or small group sessions:</strong> Scheduled separately beyond the 10–15 hours
   </div>
 </p>
 
 <p id="obj">
   <strong>Objective:</strong>
-  Metabarcoding and 16S rRNA gene sequencing using R
+  Bridging Gaps in Research Computing for Canadian Persian-speaking Immigrants
 </p>
 
 <p id="requirements">
   <strong>Requirements:</strong> 
 </p>
-
   - Laptop with a Mac, Linux, or Windows operating system 
     (not a tablet, Chromebook, etc.) with administrative privileges 
   - Access to Wifi 
