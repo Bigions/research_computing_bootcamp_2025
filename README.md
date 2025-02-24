@@ -27,13 +27,12 @@
 
 <p id="date">
   <h4>Workshop Duration and Commitment:</h4>
-  
+</p>
   <strong> Timeframe:</strong> March 2025
   
   <strong> Estimated workshop sessions:</strong> 10–15 hours
 
   <strong> Additional private or small group sessions:</strong> Scheduled separately beyond the 10–15 hours
-</p>
 
 <p id="obj">
   <strong>Objective:</strong>
@@ -105,7 +104,7 @@ To ask questions about the course, communicate with the instructor and get infor
 <h4>This course covers the following material:</h4>
 </p>
 
- - Introduction to Compute Canada Resources
+ - Introduction to Compute Canada resources
  - High-Performance Computing (HPC) 
  - Linux
  - Bash scripting
