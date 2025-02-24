@@ -32,14 +32,10 @@
 
 <p id="date">
   <strong>Workshop Duration and Commitment:<strong>
+</p>
+  vvv
 
-  <ins>Timeframe</ins>: March 2025
   
-  <ins> Estimated workshop sessions</ins>: 10–15 hours
-
-  <ins> Additional private or small group sessions</ins>: Scheduled separately beyond the 10–15 hours
-
- </p> 
 
 <p id="requirements">
   <strong>Requirements:</strong> 
