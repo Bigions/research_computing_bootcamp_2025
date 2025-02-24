@@ -86,6 +86,8 @@ We welcome participants who:
 <strong>Levels:</strong> Beginner & Intermediate
   </div>
   <div>
+  </div>
+  <div>
 <strong>Fields:</strong> including, but not limited to:
 
 - Agriculture and Natural Resources
