@@ -80,13 +80,13 @@ We welcome participants who:
 - currently work with data or plan to in the future
 
 <p id="suit">
-This course is suitable for:
+<h4>This course is suitable for:</h4>
 </p>
 <div>
 <strong>Levels:</strong> Beginner & Intermediate
   </div>
   <div>
-<strong>Fields:</strong> including, but not limited to
+<strong>Fields:</strong> including, but not limited to:
 
 - Agriculture and Natural Resources
 - AI and Machine Learning
