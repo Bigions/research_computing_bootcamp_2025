@@ -25,6 +25,11 @@
   <a href="https://alliancecan.ca/en">Digital Research Alliance of Canada </a>
 </p>
 
+<p id="obj">
+  <strong>Objective:</strong>
+  Bridging Gaps in Research Computing for Canadian Persian-speaking Immigrants
+</p>
+
 <p id="date">
   <strong>Workshop Duration and Commitment:<strong>
 </p>
@@ -34,11 +39,6 @@
   <ins> Estimated workshop sessions</ins>: 10–15 hours
 
   <ins> Additional private or small group sessions</ins>: Scheduled separately beyond the 10–15 hours
-
-<p id="obj">
-  <strong>Objective:</strong>
-  Bridging Gaps in Research Computing for Canadian Persian-speaking Immigrants
-</p>
 
 <p id="requirements">
   <strong>Requirements:</strong> 
