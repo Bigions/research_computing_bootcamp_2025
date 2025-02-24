@@ -48,6 +48,7 @@
 <p id="requirements">
   <strong>Requirements:</strong> 
 </p>
+
   - Laptop with a Mac, Linux, or Windows operating system 
     (not a tablet, Chromebook, etc.) with administrative privileges 
   - Access to Wifi 
