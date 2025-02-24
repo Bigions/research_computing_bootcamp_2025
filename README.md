@@ -13,8 +13,8 @@
 
 <p id="teach">
   <strong>Instructors:</strong>
-  <a href="https://www.cermofc.uqam.ca/en/technological-platforms/bio-informatics/">Farzaneh Rahmdani </a>, M.Sc.
-  <a href="https://www.linkedin.com/in/golrokh-vitae/?originalSubdomain=ca">Golrokh Kiani </a>, M.Sc.
+  - <a href="https://www.cermofc.uqam.ca/en/technological-platforms/bio-informatics/">Farzaneh Rahmdani </a>, M.Sc.
+  - <a href="https://www.linkedin.com/in/golrokh-vitae/?originalSubdomain=ca">Golrokh Kiani </a>, M.Sc.
 </p>
 
 <p id="by">
@@ -29,9 +29,10 @@
 
 <p id="date">
   <strong>Workshop Duration and Commitment:</strong>
-  - <strong>Timeframe:</strong> March 2025
-  - <strong>Estimated Workshop Sessions:</strong> 10–15 hours
-  - <strong>Additional Private or Small Group Sessions:</strong> Scheduled separately beyond the 10–15 hours
+
+  <strong>- Timeframe:</strong> March 2025
+  <strong>- Estimated Workshop Sessions:</strong> 10–15 hours
+  <strong>- Additional Private or Small Group Sessions:</strong> Scheduled separately beyond the 10–15 hours
 </p>
 
 <p id="obj">
