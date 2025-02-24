@@ -56,7 +56,7 @@
 </p>
   
 <p id="register">
-  Please complete <a href="https://forms.gle/eShNkxNoUn4UZ9Eq5"><strong>this survey</strong>strong></a> first, and then <a href="https://forms.gle/S3ovg69fZrE3zhq26"><strong>register here</strong></a> 
+  Please complete <a href="https://forms.gle/eShNkxNoUn4UZ9Eq5"><strong>this survey</strong></a> first, and then <a href="https://forms.gle/S3ovg69fZrE3zhq26"><strong>register here</strong></a>. 
 </p>
 
 <p id="telegram">
