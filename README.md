@@ -82,9 +82,10 @@ To ask questions about the course, communicate with the instructor and get infor
 <p id="suit">
 <h4>This course is suitable for:</h4>
 </p>
-<div>
-- <strong>Levels:</strong> Beginner & Intermediate
-  <strong>Fields:</strong> including, but not limited to:
+
+<strong>Levels:</strong> Beginner & Intermediate
+
+<strong>Fields:</strong> including, but not limited to:
 
 - Agriculture and Natural Resources
 - AI and Machine Learning
@@ -102,10 +103,9 @@ To ask questions about the course, communicate with the instructor and get infor
 - Research Data Management
 - Subatomic physics
 - Veterinary
-  </div>
-  <div>
+  
 <strong>Language:</strong> Farsi
-</div>
+
 
 <p id="cover">
 This course covers the following material:
