@@ -85,8 +85,7 @@ We welcome participants who:
 <div>
 <strong>Levels:</strong> Beginner & Intermediate
   </div>
-  <div>
-  </div>
+
   <div>
 <strong>Fields:</strong> including, but not limited to:
 
