@@ -1,6 +1,6 @@
 # 🇨🇦 Exclusive Research Computing Bootcamp 
 
-<img src="images/alliance_icoia_logo.png" width="400" align="right">
+<img src="images/alliance_icoia_logo.png" width="400" align="center">
 
 <h2 id="general">General Information</h2>
 
