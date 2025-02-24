@@ -1,7 +1,5 @@
 # 🇨🇦 Exclusive Research Computing Bootcamp 
 
-# Microbiome Bioinformatics Analysis
-
 <h2 id="general">General Information</h2>
 
 <img src="images/poster_BIOF-Mic101.png" width="350" align="right">
