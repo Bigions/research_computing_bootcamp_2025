@@ -66,7 +66,7 @@ To ask questions about the course, communicate with the instructor and get infor
 
 <h2 id="schedule">Schedule</h2>
 <p id="eligible">
-<ins>We welcome participants who</ins>:
+  We welcome participants who:
 </p>
 
 - speak Farsi
@@ -75,12 +75,12 @@ To ask questions about the course, communicate with the instructor and get infor
 - currently work with data or plan to in the future
 
 <p id="suit">
-<ins>This course is suitable for</ins>:
+  This course is suitable for:
 </p>
 
-<strong>Levels:</strong> Beginner & Intermediate
+<ins>Levels</ins>: Beginner & Intermediate
 
-<strong>Fields:</strong> including, but not limited to:
+<ins>Fields</ins>: including, but not limited to:
 
 - Agriculture and Natural Resources
 - AI and Machine Learning
@@ -99,10 +99,10 @@ To ask questions about the course, communicate with the instructor and get infor
 - Subatomic physics
 - Veterinary
   
-<strong>Language:</strong> Farsi
+<ins>Language</ins>: Farsi
 
 <p id="cover">
-<ins>This course covers the following material</ins>:
+  This course covers the following material:
 </p>
 
  - Introduction to Compute Canada resources
