@@ -1,2 +1,2 @@
-# Research Computing Bootcamp 
-### Only Canada 🇨🇦
+# Research Computing Bootcamp 🇨🇦
+
