@@ -61,7 +61,7 @@
   
 <p id="register">
   <strong>Register:</strong>
-  <a href="https://forms.gle/tdnDSKGJ491BBMU5A">here</a> 
+  <a href="https://forms.gle/S3ovg69fZrE3zhq26">here</a> 
 </p>
 
 <p id="telegram">
@@ -70,6 +70,15 @@ To ask questions about the course, communicate with the instructor and get infor
 </p>
 
 <h2 id="schedule">Schedule</h2>
+<p id="eligible">
+We welcome participants who:
+</p>
+
+- speak Farsi
+- live in Canada
+- are affiliated with a Canadian university or research institution
+- currently work with data or plan to in the future
+
 <p id="suit">
 This course is suitable for:
 </p>
