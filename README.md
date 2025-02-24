@@ -29,11 +29,11 @@
   <strong>Workshop Duration and Commitment:<strong>
 </p>
 
-  <ins>Timeframe:</ins> March 2025
+  <ins>Timeframe</ins>: March 2025
   
-  <ins> Estimated workshop sessions:</ins> 10–15 hours
+  <ins> Estimated workshop sessions</ins>: 10–15 hours
 
-  <ins> Additional private or small group sessions:</ins> Scheduled separately beyond the 10–15 hours
+  <ins> Additional private or small group sessions</ins>: Scheduled separately beyond the 10–15 hours
 
 <p id="obj">
   <strong>Objective:</strong>
@@ -66,7 +66,7 @@ To ask questions about the course, communicate with the instructor and get infor
 
 <h2 id="schedule">Schedule</h2>
 <p id="eligible">
-<ins>We welcome participants who:</ins>
+<ins>We welcome participants who</ins>:
 </p>
 
 - speak Farsi
@@ -75,7 +75,7 @@ To ask questions about the course, communicate with the instructor and get infor
 - currently work with data or plan to in the future
 
 <p id="suit">
-<ins>This course is suitable for:</ins>
+<ins>This course is suitable for</ins>:
 </p>
 
 <strong>Levels:</strong> Beginner & Intermediate
@@ -102,7 +102,7 @@ To ask questions about the course, communicate with the instructor and get infor
 <strong>Language:</strong> Farsi
 
 <p id="cover">
-<ins>This course covers the following material:</ins>
+<ins>This course covers the following material</ins>:
 </p>
 
  - Introduction to Compute Canada resources
