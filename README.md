@@ -1,8 +1,8 @@
 # 🇨🇦 Exclusive Research Computing Bootcamp 
 
-<h2 id="general">General Information</h2>
+<img src="images/alliance_icoia_logo.png" width="400" align="center">
 
-<img src="images/alliance_icoia_logo.png" width="400" align="right">
+<h2 id="general">General Information</h2>
 
 <p id="lead">
   <strong>Team Leader:</strong>
