@@ -69,7 +69,7 @@ To ask questions about the course, communicate with the instructor and get infor
   <a href="https://t.me/+jIfI2LibaBo2Yzc8?fbclid=PAZXh0bgNhZW0CMTEAAaZlAjc5hfp7mpqw7f8RxznZJ41NhZzFBl5LOjO07NjkorsvyXNDRH0pkNg_aem_l02uj-8pTJF5BiOA2yLSNQ">Telegram Group</a>.
 </p>
 
-<h2 id="schedule">Schedule</h2>
+<h2 id="audience">Audience</h2>
 <p id="eligible">
   We welcome participants who:
 </p>
@@ -106,6 +106,7 @@ To ask questions about the course, communicate with the instructor and get infor
   
 <ins>Language</ins>: Farsi
 
+<h2 id="Outline">Audience</h2>
 <p id="cover">
   This course covers the following material:
 </p>
