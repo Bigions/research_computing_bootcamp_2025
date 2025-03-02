@@ -25,7 +25,7 @@
   <strong>Teacher Assistant: </strong>
   <div>
   <a href="https://ca.linkedin.com/in/shokoufeh-manouchehr-01b20a174"> Shokoufeh Manouchehr </a>(Ph.D. Student) CERC Lab Supervisor @ UofC & ICOIA's Member
-  </div>div>
+  </div>
 </p>
 
 <p id="by">
