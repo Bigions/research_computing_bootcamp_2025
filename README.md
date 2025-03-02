@@ -14,7 +14,8 @@
 <p id="teach">
   <strong>Instructors: </strong>
   <div>
-    - <a href="https://www.cermofc.uqam.ca/en/technological-platforms/bio-informatics/"> Farzaneh Rahmdani </a>(M.Sc.) Research Assistant at Université du Québec du Montréal, Bioinformatic Platform Manager at CERMO-FC & ICOIA's Member
+    - 
+    <a href="https://www.cermofc.uqam.ca/en/technological-platforms/bio-informatics/"> Farzaneh Rahmdani </a>(M.Sc.) Research Assistant at Université du Québec du Montréal, Bioinformatic Platform Manager at CERMO-FC & ICOIA's Member
   </div>
   <div>
     <a href="https://www.linkedin.com/in/golrokh-vitae/?originalSubdomain=ca"> Golrokh Kiani</a> (M.Sc.) Bioinformatician at Centre de recherche Azrieli du CHU Sainte-Justine & ICOIA's Governance Board Member
