@@ -5,16 +5,20 @@
 <h2 id="general">General Information</h2>
 
 <p id="lead">
-  <div>
   <strong>Team Leader:</strong>
+  <div>
     <a href="https://orcid.org/0000-0002-0567-7673">Dr. Mona Parizadeh </a>(Ph.D., PDF)
   </div> 
 </p>
 
 <p id="teach">
   <strong>Instructors: </strong>
-    <a href="https://www.cermofc.uqam.ca/en/technological-platforms/bio-informatics/"> Farzaneh Rahmdani</a>, M.Sc.; Research Assistant at Université du Québec du Montréal - Bioinformatic Platform Manager at CERMO-FC
+  <div>
+    <a href="https://www.cermofc.uqam.ca/en/technological-platforms/bio-informatics/"> Farzaneh Rahmdani</a>, M.Sc.; Research Assistant at Université du Québec du Montréal - Bioinformatic Platform Manager at CERMO-FC 
+  </div>
+  <div>
     <a href="https://www.linkedin.com/in/golrokh-vitae/?originalSubdomain=ca"> Golrokh Kiani </a>, M.Sc.
+  </div>  
 </p>
 
 <p id="by">
