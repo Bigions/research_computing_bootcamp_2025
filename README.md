@@ -34,12 +34,16 @@
   <strong>Workshop Duration and Commitment:</strong>
 
   <ins>Timeframe</ins>: Mondays and Thursdays; March 3 to March 27, 2025 
+  
    <ins>Sessions</ins>: Five 75-minute sessions
+   
   <ins>Hands-On Projects</ins>: Two 2-hour sessions
+  
   <ins>Format</ins>: Online; You will receive the online session link before the first session
+  
   <ins>Additional Support</ins>: We provide private or small group sessions on demand  
 
-  <img src="images/schedule.png" width="1000" align="right">
+  <img src="images/schedule.png" width="900" align="right">
  </p> 
 
   
@@ -57,10 +61,10 @@
   <a href="mailto:{{icoia.onlineschool@gmail.com}}">icoia.onlineschool@gmail.com</a> 
 </p>
 
-<p id="register">
+<!--p id="register">
   <strong>Registration:</strong> 
   Please complete <a href="https://forms.gle/eShNkxNoUn4UZ9Eq5"><strong>this survey</strong></a> first, and then <a href="https://forms.gle/S3ovg69fZrE3zhq26"><strong>register here</strong></a>. 
-</p>
+</p-->
 
 <p id="telegram">
 To ask questions about the course, communicate with the instructor and get informed about other free training courses, become a member of the ICOIA Online School 
