@@ -22,10 +22,8 @@
 </p>
 
 <p id="ta">
-  <strong>TA: </strong>
-  <div>
-    <a href="https://ca.linkedin.com/in/shokoufeh-manouchehr-01b20a174"> Shokoufeh Manouchehr</a>, Ph.D. Student; Canada Excellence Research Chair (CERC) Lab Supervisor - University of Calgary - ICOIA's Member
-  </div>  
+  <strong>Teacher Assistant: </strong>
+  <a href="https://ca.linkedin.com/in/shokoufeh-manouchehr-01b20a174"> Shokoufeh Manouchehr</a>, Ph.D. Student; Canada Excellence Research Chair (CERC) Lab Supervisor - University of Calgary - ICOIA's Member
 </p>
 
 <p id="by">
