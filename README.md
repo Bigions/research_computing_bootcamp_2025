@@ -39,12 +39,13 @@
    
   <ins>Hands-On Projects</ins>: Two 2-hour sessions
   
-  <ins>Format</ins>: Online; You will receive the online session link before the first session
+  <ins>Format</ins>: Online
   
   <ins>Additional Support</ins>: We provide private or small group sessions on demand  
 
-
+<div
   <img src="images/schedule.png" width="1000" align="right">
+  /div>
 </p> 
 
 
