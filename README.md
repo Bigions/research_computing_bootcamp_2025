@@ -42,7 +42,9 @@
   <ins>Format</ins>: Online; You will receive the online session link before the first session
   
   <ins>Additional Support</ins>: We provide private or small group sessions on demand  
+</p>
 
+<p>
   <img src="images/schedule.png" width="1000" align="right">
  </p> 
 
