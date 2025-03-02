@@ -46,18 +46,16 @@
 
 <p>
   <img src="images/schedule.png" width="1000" align="right">
- </p> 
+</p> 
 
-<br>  
- <p id="requirements">
+<h3 id="requirements">
   <strong>Requirements:</strong> 
-</p>
+</h3>
 
   - Laptop with a Mac, Linux, or Windows operating system 
     (not a tablet, Chromebook, etc.) with administrative privileges 
   - Access to Wifi 
   - Excel or any text editor installed (e.g. TextWrangler, Notepad, BBEdit, etc.)
-</br>
 
 <p id="contact">
   <strong>Contact:</strong>
