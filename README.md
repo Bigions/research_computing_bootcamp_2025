@@ -32,7 +32,6 @@
 
 <p id="date">
   <strong>Workshop Duration and Commitment:</strong>
-</p>
 
   <ins>Timeframe</ins>: Mondays and Thursdays; March 3 to March 27, 2025 
    <ins>Sessions</ins>: Five 75-minute sessions
@@ -41,6 +40,7 @@
   <ins>Additional Support</ins>: We provide private or small group sessions on demand  
 
   <img src="images/schedule.png" width="1000" align="right">
+ </p> 
   
  <p id="requirements">
   <strong>Requirements:</strong> 
