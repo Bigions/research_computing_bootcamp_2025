@@ -35,7 +35,7 @@
 
   <ins>Timeframe</ins>: Mondays and Thursdays; March 3 to March 27, 2025 
   
-   <ins>Sessions</ins>: Five 75-minute sessions
+  <ins>Sessions</ins>: Five 75-minute sessions
    
   <ins>Hands-On Projects</ins>: Two 2-hour sessions
   
@@ -44,13 +44,17 @@
   <ins>Additional Support</ins>: We provide private or small group sessions on demand  
 </p>
 
+
+
 <p>
   <img src="images/schedule.png" width="1000" align="right">
 </p> 
 
-<h3 id="requirements">
+
+
+<p id="requirements">
   <strong>Requirements:</strong> 
-</h3>
+</p>
 
   - Laptop with a Mac, Linux, or Windows operating system 
     (not a tablet, Chromebook, etc.) with administrative privileges 
