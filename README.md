@@ -11,6 +11,7 @@
 
 <p id="teach">
   <strong>Instructors: </strong>
+  
     <a href="https://www.cermofc.uqam.ca/en/technological-platforms/bio-informatics/">Farzaneh Rahmdani </a>, M.Sc.; Research Assistant at Université du Québec du Montréal - Manager of the Bioinformatics Platform at CERMO-FC
   
     <a href="https://www.linkedin.com/in/golrokh-vitae/?originalSubdomain=ca"> Golrokh Kiani </a>, M.Sc.
