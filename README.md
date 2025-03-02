@@ -7,23 +7,23 @@
 <p id="lead">
   <strong>Team Leader:</strong>
   <div>
-    <a href="https://orcid.org/0000-0002-0567-7673">Dr. Mona Parizadeh </a>Ph.D., PDF; Senior Postdoctoral Associate, Cumming School of Medicine, University of Calgary - ICOIA's President
+    <a href="https://orcid.org/0000-0002-0567-7673">Dr. Mona Parizadeh </a>(Ph.D., PDF) Senior Postdoctoral Associate, Cumming School of Medicine, University of Calgary & ICOIA's President
   </div> 
 </p>
 
 <p id="teach">
   <strong>Instructors: </strong>
   <div>
-    <a href="https://www.cermofc.uqam.ca/en/technological-platforms/bio-informatics/"> Farzaneh Rahmdani</a>, M.Sc.; Research Assistant at Université du Québec du Montréal - Bioinformatic Platform Manager at CERMO-FC - ICOIA's Member
+    <a href="https://www.cermofc.uqam.ca/en/technological-platforms/bio-informatics/"> Farzaneh Rahmdani</a>(M.Sc.) Research Assistant at Université du Québec du Montréal, Bioinformatic Platform Manager at CERMO-FC & ICOIA's Member
   </div>
   <div>
-    <a href="https://www.linkedin.com/in/golrokh-vitae/?originalSubdomain=ca"> Golrokh Kiani</a>, M.Sc.; Bioinformatician at Centre de recherche Azrieli du CHU Sainte-Justine - ICOIA's Governance Board Member
+    <a href="https://www.linkedin.com/in/golrokh-vitae/?originalSubdomain=ca"> Golrokh Kiani</a>(M.Sc.) Bioinformatician at Centre de recherche Azrieli du CHU Sainte-Justine & ICOIA's Governance Board Member
   </div>  
 </p>
 
 <p id="ta">
   <strong>Teacher Assistant: </strong>
-  <a href="https://ca.linkedin.com/in/shokoufeh-manouchehr-01b20a174"> Shokoufeh Manouchehr</a>, Ph.D. Student; Canada Excellence Research Chair (CERC) Lab Supervisor - University of Calgary - ICOIA's Member
+  <a href="https://ca.linkedin.com/in/shokoufeh-manouchehr-01b20a174"> Shokoufeh Manouchehr</a>(Ph.D. Student) Canada Excellence Research Chair (CERC) Lab Supervisor - University of Calgary & ICOIA's Member
 </p>
 
 <p id="by">
