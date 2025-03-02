@@ -5,8 +5,8 @@
 <h2 id="general">General Information</h2>
 
 <p id="lead">
-  <strong>Team Leader:</strong>
   <div>
+  <strong>Team Leader:</strong>
     <a href="https://orcid.org/0000-0002-0567-7673">Dr. Mona Parizadeh </a>(Ph.D., PDF)
   </div> 
 </p>
