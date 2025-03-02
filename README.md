@@ -48,7 +48,7 @@
   <img src="images/schedule.png" width="1000" align="right">
  </p> 
 
-<poem><nowiki>  
+<br>  
  <p id="requirements">
   <strong>Requirements:</strong> 
 </p>
@@ -57,7 +57,7 @@
     (not a tablet, Chromebook, etc.) with administrative privileges 
   - Access to Wifi 
   - Excel or any text editor installed (e.g. TextWrangler, Notepad, BBEdit, etc.)
-</poem></nowiki>
+</br>
 
 <p id="contact">
   <strong>Contact:</strong>
