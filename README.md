@@ -43,9 +43,9 @@
   
   <ins>Additional Support</ins>: We provide private or small group sessions on demand  
 
-  <img src="images/schedule.png" width="1000" align="right">
+  <img src="images/schedule.png" width="1000" align="right" style="float:left; padding-right:10px">
   
-&nbsp; id="requirements">
+<p id="requirements">
   <strong>Requirements:</strong> 
 </p>
 
