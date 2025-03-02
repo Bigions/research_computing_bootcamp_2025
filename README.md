@@ -45,10 +45,7 @@
 
   <img src="images/schedule.png" width="1000" align="right">
   
-  -
-</p> 
-
-<p id="requirements">
+&nbsp; id="requirements">
   <strong>Requirements:</strong> 
 </p>
 
