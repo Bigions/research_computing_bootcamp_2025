@@ -106,7 +106,7 @@ To ask questions about the course, communicate with the instructor and get infor
   
 <ins>Language</ins>: Farsi
 
-<h2 id="Outline">Audience</h2>
+<h2 id="outline">Outline</h2>
 <p id="cover">
   This course covers the following material:
 </p>
