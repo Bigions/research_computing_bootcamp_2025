@@ -48,7 +48,7 @@
 <p id="date">
   <strong>Workshop Duration and Commitment:</strong>
   <ul>
-    <li><ins>Timeframe</ins>: Mondays and Thursdays; March 3 to March 27, 2025</li> 
+    <li><strong>Timeframe</strong>: Mondays and Thursdays; March 3 to March 27, 2025</li> 
     <li><ins>Sessions</ins>: Five 75-minute sessions</li>
     <li><ins>Hands-On Projects</ins>: Two 2-hour sessions</li>
     <li><ins>Format</ins>: Online</li>
@@ -98,7 +98,7 @@ To ask questions about the course, communicate with the instructor and get infor
 </p>
 
 <ul>
-  <ins>Levels</ins>: Beginner & Intermediate<br>
+  <ins>Levels</ins>: Beginner & Intermediate
 
   <ins>Fields</ins>: including, but not limited to:
 </ul>
