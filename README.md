@@ -47,7 +47,7 @@
 
 <p id="date">
   <strong>Workshop Duration and Commitment:</strong>
-
+  <ul>
   <ins>Timeframe</ins>: Mondays and Thursdays; March 3 to March 27, 2025 
   
   <ins>Sessions</ins>: Five 75-minute sessions
@@ -57,6 +57,7 @@
   <ins>Format</ins>: Online
   
   <ins>Additional Support</ins>: We provide private or small group sessions on demand  
+</ul>
 
   <img src="images/schedule.png" width="1000" align="center">
   
@@ -89,10 +90,12 @@ To ask questions about the course, communicate with the instructor and get infor
   We welcome participants who:
 </p>
 
-- speak Farsi
-- live in Canada
-- are affiliated with a Canadian university or research institution
-- currently work with data or plan to in the future
+<ul>
+  <li>speak Farsi</li>
+  <li>live in Canada</li>
+  <li>are affiliated with a Canadian university or research institution</li>
+  <li>currently work with data or plan to in the future</li>
+</ul>
 
 <p id="suit">
   This course is suitable for:
@@ -102,23 +105,25 @@ To ask questions about the course, communicate with the instructor and get infor
 
 <ins>Fields</ins>: including, but not limited to:
 
-- Agriculture and Natural Resources
-- AI and Machine Learning
-- Bioinformatics
-- Biological Sciences
-- Biomolecular simulation
-- Computational chemistry
-- Computer Science
-- CFD
-- Engineering
-- GIS
-- Humanities and Social Sciences
-- Medicine
-- Microbiology
-- Research Data Management
-- Subatomic physics
-- Veterinary
-  
+<ul>
+  <li>Agriculture and Natural Resources</li>
+  <li>AI and Machine Learning</li>
+  <li>Bioinformatics</li>
+  <li>Biological Sciences</li>
+  <li>Biomolecular simulation</li>
+  <li>Computational chemistry</li>
+  <li>Computer Science</li>
+  <li>CFD</li>
+  <li>Engineering</li>
+  <li>GIS</li>
+  <li>Humanities and Social Sciences</li>
+  <li>Medicine</li>
+  <li>Microbiology</li>
+  <li>Research Data Management</li>
+  <li>Subatomic physics</li>
+  <li>Veterinary</li>
+</ul>
+
 <ins>Language</ins>: Farsi
 
 <h2 id="outline">Outline</h2>
@@ -126,14 +131,15 @@ To ask questions about the course, communicate with the instructor and get infor
   This course covers the following material:
 </p>
 
- - Introduction to Compute Canada resources
- - High-Performance Computing (HPC) 
- - Linux
- - Bash scripting
- - Slurm workload manager
- - Running jobs
- - Research data management
- - Data transfer: Globus
- - JupyterHub
- - Hands-on projects 
-
+<ul>
+  <li>Introduction to Compute Canada resources</li>
+  <li>High-Performance Computing (HPC)</li> 
+  <li>Linux</li>
+  <li>Bash scripting</li>
+  <li>Slurm workload manager</li>
+  <li>Running jobs</li>
+  <li>Research data management</li>
+  <li>Data transfer: Globus</li>
+  <li>JupyterHub</li>
+  <li>Hands-on projects</li>
+</ul>
