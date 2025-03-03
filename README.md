@@ -101,24 +101,25 @@ To ask questions about the course, communicate with the instructor and get infor
   <li><strong>Levels</strong>: Beginner & Intermediate</li>
 
   <li><strong>Fields</ins></strong>: including, but not limited to:</li>
-</ul>
-<ul>
-  <li>Agriculture and Natural Resources</li>
-  <li>AI and Machine Learning</li>
-  <li>Bioinformatics</li>
-  <li>Biological Sciences</li>
-  <li>Biomolecular simulation</li>
-  <li>Computational chemistry</li>
-  <li>Computer Science</li>
-  <li>CFD</li>
-  <li>Engineering</li>
-  <li>GIS</li>
-  <li>Humanities and Social Sciences</li>
-  <li>Medicine</li>
-  <li>Microbiology</li>
-  <li>Research Data Management</li>
-  <li>Subatomic physics</li>
-  <li>Veterinary</li>
+
+  <ul>
+    <li>Agriculture and Natural Resources</li>
+    <li>AI and Machine Learning</li>
+    <li>Bioinformatics</li>
+    <li>Biological Sciences</li>
+    <li>Biomolecular simulation</li>
+    <li>Computational chemistry</li>
+    <li>Computer Science</li>
+    <li>CFD</li>
+    <li>Engineering</li>
+    <li>GIS</li>
+    <li>Humanities and Social Sciences</li>
+    <li>Medicine</li>
+    <li>Microbiology</li>
+    <li>Research Data Management</li>
+    <li>Subatomic physics</li>
+    <li>Veterinary</li>
+    </ul>
 </ul>
 
 <ins>Language</ins>: Farsi
