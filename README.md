@@ -49,10 +49,10 @@
   <strong>Workshop Duration and Commitment:</strong>
   <ul>
     <li><strong>Timeframe</strong>: Mondays and Thursdays; March 3 to March 27, 2025</li> 
-    <li><ins>Sessions</ins>: Five 75-minute sessions</li>
-    <li><ins>Hands-On Projects</ins>: Two 2-hour sessions</li>
-    <li><ins>Format</ins>: Online</li>
-    <li><ins>Additional Support</ins>: We provide private or small group sessions on demand</li>  
+    <li><strong>Sessions</strong>: Five 75-minute sessions</li>
+    <li><strong>Hands-On Projects</strong>: Two 2-hour sessions</li>
+    <li><strong>Format</strong>: Online</li>
+    <li><strong>Additional Support</strong>: We provide private or small group sessions on demand</li>  
   </ul>
 
   <img src="images/schedule.png" width="1000" align="center">
