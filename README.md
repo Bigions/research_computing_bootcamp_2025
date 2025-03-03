@@ -97,10 +97,11 @@ To ask questions about the course, communicate with the instructor and get infor
   This course is suitable for:
 </p>
 
-<ins>Levels</ins>: Beginner & Intermediate
+<ul>
+  <ins>Levels</ins>: Beginner & Intermediate<br>
 
-<ins>Fields</ins>: including, but not limited to:
-
+  <ins>Fields</ins>: including, but not limited to:
+</ul>
 <ul>
   <li>Agriculture and Natural Resources</li>
   <li>AI and Machine Learning</li>
