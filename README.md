@@ -63,12 +63,13 @@
 <p id="requirements">
   <strong>Requirements:</strong> 
 </p>
-<br>- Laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) with administrative privileges
-</br>
-<br>- Access to Wifi
-</br>
-<br>- Excel or any text editor installed (e.g. TextWrangler, Notepad, BBEdit, etc.)
-</br>
+
+- Laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) with administrative privileges
+
+- Access to Wifi
+
+- Excel or any text editor installed (e.g. TextWrangler, Notepad, BBEdit, etc.)
+
 
 <p id="contact">
   <strong>Contact:</strong>
