@@ -63,9 +63,9 @@
 <p id="requirements">
   <strong>Requirements:</strong> 
 </p>
-> Laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) with administrative privileges
-> Access to Wifi
-> Excel or any text editor installed (e.g. TextWrangler, Notepad, BBEdit, etc.)
+...Laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) with administrative privileges..
+...Access to Wifi..
+...Excel or any text editor installed (e.g. TextWrangler, Notepad, BBEdit, etc.)
 
 
 <p id="contact">
