@@ -13,20 +13,19 @@
 
 <p id="teach">
   <strong>Instructors: </strong>
-  <div>
+  <ul>
     <a href="https://www.cermofc.uqam.ca/en/technological-platforms/bio-informatics/"> Farzaneh Rahmdani </a>(M.Sc.) Research Assistant @ UQAM, Bioinformatic Platform Manager @ CERMO-FC, & ICOIA's Member
-  </div>
-  &
-  <div>
+  </ul>
+  <ul>
     <a href="https://www.linkedin.com/in/golrokh-vitae/?originalSubdomain=ca"> Golrokh Kiani</a> (M.Sc.) Bioinformatician @ Centre de recherche Azrieli du CHU Sainte-Justine & ICOIA's Governance Board Member
-  </div>  
+  </ul>  
 </p>
 
 <p id="ta">
   <strong>Teacher Assistant: </strong>
-  <div>
+  <ul>
   <a href="https://ca.linkedin.com/in/shokoufeh-manouchehr-01b20a174"> Shokoufeh Manouchehr </a>(Ph.D. Student) CERC Lab Supervisor @ UofC & ICOIA's Member
-  </div>
+  </ul>
 </p>
 
 
