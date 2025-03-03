@@ -6,9 +6,9 @@
 
 <p id="lead">
   <strong>Team Leader:</strong>
-  <div>
+  <ul>
     <a href="https://orcid.org/0000-0002-0567-7673">Dr. Mona Parizadeh </a>(Ph.D., PDF) Senior Postdoctoral Associate @ UofC Cumming School of Medicine & ICOIA's President
-  </div> 
+  </ul> 
 </p>
 
 <p id="teach">
