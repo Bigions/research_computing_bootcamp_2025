@@ -98,9 +98,9 @@ To ask questions about the course, communicate with the instructor and get infor
 </p>
 
 <ul>
-  <ins>Levels</ins>: Beginner & Intermediate
+  <li><strong>Levels</strong>: Beginner & Intermediate</li>
 
-  <ins>Fields</ins>: including, but not limited to:
+  <li><strong>Fields</ins></strong>: including, but not limited to:</li>
 </ul>
 <ul>
   <li>Agriculture and Natural Resources</li>
