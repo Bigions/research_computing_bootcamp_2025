@@ -122,7 +122,9 @@ To ask questions about the course, communicate with the instructor and get infor
     </ul>
 </ul>
 
-<ins>Language</ins>: Farsi
+<ul>
+  <li><strong>Language</strong>: Farsi</li>
+</ul>  
 
 <h2 id="outline">Outline</h2>
 <p id="cover">
